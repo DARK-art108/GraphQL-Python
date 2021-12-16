@@ -1,1 +1,1 @@
-# Setting Up GraphQL Api in Python with Postgresql as a DB
+### Setting Up GraphQL Api in Python with PostgreSQL as a DB
